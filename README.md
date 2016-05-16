@@ -8,3 +8,6 @@ proxy server implemented using c language
 
 ###웹 브라우저로 테스트
 1. 웹 브라우저 실행. 프록시 서버를 설정해준다. ip 주소, 포트 번호
+
+
+결과 화면 및 플로우차트는 proxy_server.pdf 참고해주세요.
